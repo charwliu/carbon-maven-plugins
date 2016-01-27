@@ -30,9 +30,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/wso2/carbon-maven-plugins.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-maven-plugins.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-maven-plugins.git</connection>
+        <url>https://github.com/charwliu/carbon-maven-plugins.git</url>
+        <developerConnection>scm:git:https://github.com/charwliu/carbon-maven-plugins.git</developerConnection>
+        <connection>scm:git:https://github.com/charwliu/carbon-maven-plugins.git</connection>
         <tag>HEAD</tag>
     </scm>
 
